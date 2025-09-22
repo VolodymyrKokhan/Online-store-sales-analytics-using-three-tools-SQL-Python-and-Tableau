@@ -3,3 +3,4 @@ This project aims to analyze the operations of an online company over a three-mo
 
 [Link to the Tableau Dashboard](https://public.tableau.com/views/E-COMMERCECOMPANY/E-COMMERCECOMPANY?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![E-commerce](E-commerce)
